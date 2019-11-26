@@ -5,6 +5,15 @@
       system and a voting system similar to Hacker News or Reddit. The products with the most 
       votes rise to the top of each day's list. Clone
 
+About Me : https://about.me/aakashpadhiyar
+
+Youtube Channel: https://www.youtube.com/channel/UCtuoofxzdxsmtRtEy27710g
+
+Freelance : https://www.fiverr.com/kanopython
+
+Facebook : https://www.facebook.com/pythonkano/
+
+LinkedIn : https://www.linkedin.com/in/aakashpadhiyar/
 
 ## HOME page
 
